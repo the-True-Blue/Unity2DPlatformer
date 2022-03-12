@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SelectMenu.unity
+    guid: 8c59528fa132b3f4ab6d5979261262cf
+  - enabled: 0
+    path: Assets/Scenes/Level1.unity
+    guid: dfe12f8d950c3a84ab68c1baf2f59340
+  - enabled: 0
+    path: Assets/Scenes/Level2.unity
+    guid: bdca0f5c19a4e6e419e6bbbdf0b96bda
+  - enabled: 0
+    path: Assets/Scenes/Level3.unity
+    guid: 9d926c84e624dd5469b2aa1d75e8cd5b
+  - enabled: 0
+    path: Assets/Scenes/Level4.unity
+    guid: b3513a27b6e283347ac887f8502edf36
+  - enabled: 0
+    path: Assets/Scenes/Level5.unity
+    guid: 31cbad773cd4862458d550530b4c42de
+  - enabled: 1
+    path: Assets/Scenes/Level1 Remake.unity
+    guid: 4672f163ed550b445ad4c767c2f0c890
+  - enabled: 1
+    path: Assets/Scenes/Level2 Remake.unity
+    guid: 0053efea0ff5be74c878221a6b849933
+  - enabled: 1
+    path: Assets/Scenes/Level3 Remake.unity
+    guid: 64f7875fef77bb54981f5d58c7cc8ca6
+  - enabled: 1
+    path: Assets/Scenes/Level4 Remake.unity
+    guid: 2da08c6ab61bd744b821b775b55ad769
+  - enabled: 1
+    path: Assets/Scenes/Level5 Remake.unity
+    guid: 21bf429cdd70b6f479feb999da5cd8f7
+  - enabled: 1
+    path: Assets/Scenes/Finish Screen.unity
+    guid: 98b436ffb71d8b34fb17f82588ac1e32
+  m_configObjects: {}
