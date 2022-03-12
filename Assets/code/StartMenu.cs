@@ -1,0 +1,17 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class StartMenu : MonoBehaviour
+{
+    public void StartGame(){ 
+        SceneManager.LoadScene("Level1 Remake");
+    }
+    public void ExitGame(){
+        Application.Quit();
+    }
+    public void SelectLevel(){
+        SceneManager.LoadScene("SelectMenu");
+    }
+}
